@@ -4,7 +4,7 @@ featured_image_url: /assets/images/header_fireworks.svg
 sections:
   - section 1
   - section 2
-  - lorem-ipsum
+  - section 3
 ---
 ## Lorem ipsum
 
