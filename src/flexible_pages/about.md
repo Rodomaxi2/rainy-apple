@@ -1,5 +1,5 @@
 ---
-title: Replace this text with a page title
+title: About
 featured_image_url: /assets/images/header_fireworks.svg
 sections:
   - section 1
